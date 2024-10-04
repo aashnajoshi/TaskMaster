@@ -18,6 +18,6 @@ python {file_name}.py
 ```
 
 ## Description of various files:
-- **task1.py:** Script for performing data processing.
-- **task2.py:** Script for web scraping and analysis.
+- **Task 1:** Script for performing data processing.
+- **Task 2:** Script for web scraping and analysis.
 - **requirements.txt:** Lists all required Python libraries (present in specific tasks).
